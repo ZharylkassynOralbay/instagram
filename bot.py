@@ -1,7 +1,7 @@
 from instapy import InstaPy
 
 
-session = InstaPy(username="learn_earn_travel_enjoy", password="0314007kZ")
+session = InstaPy(username="learn_earn_travel_enjoy", password="000000")
 session.login()
 
 session.like_by_tags(['саяхат', 'английский'], amount=6)
